@@ -1,0 +1,648 @@
+,Name,Capacity
+0,Eads St & 15th St S,15
+1,18th St & S Eads St,11
+2,Crystal Dr & 20th St S,17
+3,Crystal Dr & 15th St S,16
+4,Aurora Hills Cmty Ctr / 18th St & S Hayes St,12
+5,Pentagon City Metro / 12th St & S Hayes St,18
+6,Army Navy Dr & S Joyce St,16
+7,Crystal City Metro / 18th St & S Bell St,19
+8,Crystal Dr & 27th St S,11
+9,S Glebe Rd & Potomac Ave,11
+10,Crystal Dr & 23rd St S,17
+11,Clark St & 26th St S,11
+12,19th St & Pennsylvania Ave NW,15
+13,14th & V St NW,31
+14,11th & Kenyon St NW,27
+15,15th & Harvard St NW,23
+16,Adams Mill & Columbia Rd NW,15
+17,14th & Harvard St NW,19
+18,Calvert & Biltmore St NW,23
+19,Lamont & Mt Pleasant NW,19
+20,4th & M St SW,23
+21,15th & P St NW,19
+22,14th & R St NW,19
+23,14th & Rhode Island Ave NW,23
+24,20th & E St NW,15
+25,21st & I St NW,35
+26,Georgia & New Hampshire Ave NW,19
+27,14th St & Spring Rd NW,19
+28,John McCormack Dr & Michigan Ave NE,11
+29,5th & K St NW,19
+30,19th & East Capitol St SE,15
+31,Park Rd & Holmead Pl NW,19
+32,Good Hope & Naylor Rd SE,19
+33,Connecticut Ave & Newark St NW / Cleveland Park,11
+34,Randle Circle & Minnesota Ave SE,11
+35,Minnesota Ave Metro/DOES,15
+36,Nannie Helen Burroughs & Minnesota Ave NE,11
+37,Anacostia Metro,11
+38,Good Hope Rd & MLK Ave SE,11
+39,19th & E Street NW,11
+40,4th & W St NE,15
+41,10th & U St NW,15
+42,Georgia Ave and Fairmont St NW,11
+43,1st & N St  SE,39
+44,20th St & Florida Ave NW,15
+45,7th & T St NW,15
+46,Eads St & 22nd St S,15
+47,M St & New Jersey Ave SE,17
+48,Massachusetts Ave & Dupont Circle NW,45
+49,1st & M St NE,15
+50,New Hampshire Ave & Ward Pl NW,19
+51,17th & K St NW,23
+52,3rd & H St NW,15
+53,3rd & D St SE,11
+54,Potomac & Pennsylvania Ave SE,15
+55,13th & E St SE,15
+56,17th & Corcoran St NW,19
+57,Van Ness Metro / UDC,15
+58,Florida Ave & R St NW,15
+59,8th & Eye St SE / Barracks Row,11
+60,Ward Circle / American University,15
+61,Wisconsin Ave & Newark St NW,19
+62,14th St Heights / 14th & Crittenden St NW,11
+63,Anacostia Library,11
+64,Pennsylvania & Minnesota Ave SE,11
+65,Eastern Market / 7th & North Carolina Ave SE,15
+66,14th St & New York Ave NW,23
+67,Benning Branch Library,11
+68,USDA / 12th & C St SW,39
+69,Georgetown Harbor / 30th St NW,19
+70,12th & Newton St NE,11
+71,US Dept of State / Virginia Ave & 21st St NW,15
+72,L'Enfant Plaza / 7th & C St SW,15
+73,10th St & Constitution Ave NW,31
+74,Kennedy Center,19
+75,Eastern Market Metro / Pennsylvania Ave & 8th St SE,19
+76,18th & M St NW,27
+77,Tenleytown / Wisconsin Ave & Albemarle St NW,15
+78,13th & H St NE,27
+79,5th & F St NW,31
+80,New York Ave & 15th St NW,19
+81,Convention Center / 7th & M St NW,23
+82,Harvard St & Adams Mill Rd NW,15
+83,18th & L St NW,19
+84,C & O Canal & Wisconsin Ave NW,23
+85,Maine Ave & 7th St SW,19
+86,D St & Maryland Ave NE,23
+87,34th St & Wisconsin Ave NW,11
+88,13th St & New York Ave NW,23
+89,8th & H St NW,33
+90,10th & Monroe St NE,15
+91,Eckington Pl & Q St NE,23
+92,6th & H St NE,23
+93,3rd & H St NE,19
+94,Bladensburg Rd & Benning Rd NE,15
+95,4th & East Capitol St NE,11
+96,Lincoln Park / 13th & East Capitol St NE ,25
+97,Branch & Pennsylvania Ave SE,11
+98,13th & D St NE,31
+99,New Hampshire Ave & T St NW,23
+100,Metro Center / 12th & G St NW,39
+101,14th & D St NW / Ronald Reagan Building,25
+102,7th & F St NW / National Portrait Gallery,27
+103,17th & K St NW / Farragut Square,35
+104,20th & O St NW / Dupont South,19
+105,4th & D St NW / Judiciary Square,15
+106,19th St & Constitution Ave NW,35
+107,37th & O St NW / Georgetown University,23
+108,11th & H St NE,19
+109,25th St & Pennsylvania Ave NW,15
+110,Columbus Circle / Union Station,55
+111,North Capitol St & F St NW,23
+112,11th & M St NW,19
+113,36th & Calvert St NW / Glover Park,15
+114,14th & G St NW,23
+115,Potomac Ave & 35th St S,15
+116,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,31
+117,11th & F St NW,15
+118,23rd & E St NW ,19
+119,Lynn St & 19th St North,27
+120,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,19
+121,Clarendon Blvd & Pierce St,15
+122,Wilson Blvd & N Uhle St,15
+123,Rhodes St & 16th St N,12
+124,Fairfax Village,15
+125,21st St & Constitution Ave NW,15
+126,Wilson Blvd & N Edgewood St,15
+127,Columbia Rd & Belmont St NW,19
+128,Rhode Island & Connecticut Ave NW,23
+129,Thomas Circle,33
+130,Wilson Blvd & N Franklin Rd,12
+131,Clarendon Blvd & N Fillmore St,15
+132,Clarendon Metro / Wilson Blvd & N Highland St,21
+133,18th St & Pennsylvania Ave NW,27
+134,4th & C St SW,39
+135,4th & E St SW,19
+136,3rd & G St SE,19
+137,7th & R St NW / Shaw Library,15
+138,9th & Upshur St NW,15
+139,1st & Rhode Island Ave NW,15
+140,Columbia Rd & Georgia Ave NW,19
+141,California St & Florida Ave NW,19
+142,Benning Rd & East Capitol St NE / Benning Rd Metro,19
+143,3000 Connecticut Ave NW / National Zoo,15
+144,Anacostia Ave & Benning Rd NE / River Terrace ,15
+145,M St & Pennsylvania Ave NW,19
+146,15th St & Massachusetts Ave SE,15
+147,Congress Heights Metro,15
+148,N Quincy St & Glebe Rd,11
+149,Barcroft Community Center,11
+150,N Veitch St & 20th St N,15
+151,10th & K St NW,23
+152,Fairfax Dr & Wilson Blvd,11
+153,Wilson Blvd & N Quinn St,11
+154,1st & K St SE,15
+155,39th & Calvert St NW / Stoddert,19
+156,1st & Washington Hospital Center NW,15
+157,Virginia Square Metro / Monroe St & 9th St N,19
+158,Central Library / Quincy St & 10th St N,11
+159,Washington Blvd & 10th St N,15
+160,Jefferson Dr & 14th St SW,23
+161,Smithsonian-National Mall / Jefferson Dr & 12th St SW,35
+162,George Mason Dr & Wilson Blvd,15
+163,6th St & Indiana Ave NW,19
+164,N Veitch St & Key Blvd,11
+165,Langston Blvd & N Adams St,19
+166,15th St & N Scott St,11
+167,Washington Blvd & 7th St N,11
+168,Ballston Metro / Stuart St & 9th St N,23
+169,Fairfax Dr & N Randolph St,11
+170,Jefferson Memorial,23
+171,Good Hope Rd & 14th St SE,15
+172,Glebe Rd & 11th St N,11
+173,Wilson Blvd & N Quincy St,15
+174,GMU / Fairfax Dr & Kenmore St,11
+175,Gallaudet / 8th St & Florida Ave NE,19
+176,20th & L St NW,19
+177,12th & L St NW,19
+178,21st St & Pennsylvania Ave NW,19
+179,19th & K St NW,23
+180,Prince St & Union St,19
+181,Market Square / King St & Royal St,15
+182,St Asaph & Pendleton St,15
+183,King St & Patrick St,15
+184,15th & K St NW,27
+185,Commerce St & Fayette St,15
+186,Henry St & Pendleton St,17
+187,Braddock Rd Metro,29
+188,King St Metro South,23
+189,24th & N St NW,15
+190,10th & E St NW,15
+191,22nd & I St NW / Foggy Bottom,15
+192,Utah St & 11th St N,11
+193,Barton St & 10th St N,11
+194,Arlington Blvd & N Queen St,11
+195,Lincoln Memorial,25
+196,20th St & Virginia Ave NW,15
+197,5th St & Massachusetts Ave NW,19
+198,39th & Veazey St NW,15
+199,Fessenden St & Wisconsin Ave NW,15
+200,3rd & M St NE,23
+201,Columbia Pike & S Courthouse Rd,15
+202,Wakefield High School,11
+203,28th St & S Meade St,15
+204,18th St & Wyoming Ave NW,23
+205,5th & Kennedy St NW,15
+206,Georgia Ave & Emerson St NW,19
+207,14th & Upshur St NW,19
+208,14th St & Colorado Ave NW,19
+209,Troy St & 26th St S,11
+210,Four Mile Run Dr & S Shirlington Rd,11
+211,Columbia Pike & S Oakland St,11
+212,Four Mile Run Dr & S Walter Reed Dr,11
+213,S Arlington Mill Dr & Campbell Ave,15
+214,Kenmore St & 24th St S,11
+215,13th St & Eastern Ave,15
+216,Wisconsin Ave & O St NW,19
+217,Roosevelt Island,13
+218,Connecticut & Nebraska Ave NW,23
+219,17th St & Massachusetts Ave NW,19
+220,15th & Euclid St  NW,15
+221,8th & East Capitol St NE,11
+222,New Jersey Ave & R St NW,15
+223,15th & East Capitol St NE,11
+224,8th & F St NE,23
+225,18th St & Rhode Island Ave NE,15
+226,15th & F St NE,19
+227,12th & Irving St NE,15
+228,Alabama & MLK Ave SE,11
+229,Pleasant St & MLK Ave SE,11
+230,Neal St & Trinidad Ave NE,15
+231,12th & U St NW,31
+232,S George Mason & Four Mile Run Dr,11
+233,Gravelly Point,15
+234,Pershing Dr & Wayne St,11
+235,Columbia Pike & S Orme St,11
+236,3rd St & Pennsylvania Ave SE,15
+237,8th & D St NW,15
+238,3rd & Elm St NW,15
+239,Rhode Island Ave & V St NE,19
+240,Constitution Ave & 2nd St NW/DOL,27
+241,Washington & Independence Ave SW/HHS,31
+242,Independence Ave & L'Enfant Plaza SW/DOE,15
+243,Hamlin & 7th St NE,15
+244,Columbia Pike & S Walter Reed Dr,12
+245,Arlington Mill Cmty Center / Columbia Pike & S Dinwiddie St,15
+246,Pershing Dr & N George Mason Dr,11
+247,Fenton St & New York Ave ,15
+248,Bethesda Ave & Arlington Rd,19
+249,Montgomery Ave & Waverly St ,11
+250,Fallsgrove Blvd & Fallsgrove Dr,19
+251,Traville Gateway Dr & Gudelsky Dr,19
+252,Norfolk Ave & Fairmont St,11
+253,E Montgomery Ave & Maryland Ave,15
+254,Cordell & Norfolk Ave,11
+255,Frederick Ave & Horners Ln,9
+256,Philadelphia & Maple Ave,15
+257,Maple & Ritchie Ave,19
+258,Silver Spring Metro / Colesville Rd & Wayne Ave,19
+259,Montgomery & East Ln,11
+260,Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,19
+261,14th & Belmont St NW,15
+262,3rd & Tingey St SE,19
+263,10th & Florida Ave NW,19
+264,Potomac Ave & 8th St SE,15
+265,Fallsgrove Dr & W Montgomery Ave,15
+266,Monroe St & Monroe Pl,15
+267,Needwood Rd & Eagles Head Ct,15
+268,East West Hwy & Blair Mill Rd,15
+269,47th & Elm St,15
+270,Dennis Ave & Amherst Ave,15
+271,Montgomery College / W Campus Dr & Mannakee St,21
+272,Fenton St & Gist Ave,11
+273,Carroll & Westmoreland Ave,15
+274,Carroll & Ethan Allen Ave,15
+275,Battery Ln & Trolley Trail,15
+276,Norfolk & Rugby Ave,11
+277,Offutt Ln & Chevy Chase Dr,11
+278,Fleet St & Ritchie Pkwy,15
+279,Piccard & W Gude Dr,19
+280,Silver Spring Transit Center - Top Level,15
+281,Georgia Ave & Spring St,11
+282,Fenton St & Ellsworth Dr ,15
+283,King Farm Blvd & Pleasant Dr,18
+284,King Farm Blvd & Piccard Dr,15
+285,Calvert St & Woodley Pl NW,19
+286,New Jersey Ave & N St NW/Dunbar HS,19
+287,Nannie Helen Burroughs Ave & 49th St NE,11
+288,Deanwood Rec Center,15
+289,Hains Point/Buckeye & Ohio Dr SW,17
+290,Arlington Blvd & Fillmore St,11
+291,Eads St & 12th St S,17
+292,Old Georgetown Rd & Southwick St,19
+293,Friendship Blvd & Willard Ave,19
+294,North Capitol St & G Pl NE,19
+295,31st St & S Woodrow St,11
+296,Washington Blvd & Walter Reed Dr ,15
+297,TJ Cmty Ctr / 2nd St & S Old Glebe Rd,15
+298,Connecticut Ave & Tilden St NW,15
+299,Medical Center Dr & Key West Ave,15
+300,Shady Grove Hospital,19
+301,Veterans Pl & Pershing Dr ,11
+302,Rockville Metro East,13
+303,1st & H St NW,15
+304,Fort Totten Metro,19
+305,Takoma Metro,19
+306,Rhode Island Ave Metro,19
+307,Rolfe St & 9th St S,11
+308,Shirlington Transit Center / Quincy St & Randolph St,15
+309,Shady Grove Metro West,19
+310,River Rd & Landy Ln,19
+311,Rockville Metro West,19
+312,Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,12
+313,Iwo Jima Memorial / Meade & 14th St N,19
+314,34th & Water St NW,19
+315,Duke St & John Carlyle St,15
+316,Langston Blvd & N Cleveland St,15
+317,Arlington Blvd & S George Mason Dr,15
+318,10th & G St NW,23
+319,Langston Blvd & N Scott St,15
+320,New Hampshire Ave & 24th St NW,19
+321,Eisenhower Ave & Mill Race Ln,15
+322,Potomac Greens Dr & Slaters Ln,11
+323,Ballenger Ave & Dulaney St,19
+324,Mount Vernon Ave & E Nelson Ave,11
+325,Mount Vernon Ave & E Del Ray Ave,15
+326,Monroe Ave & Leslie Ave,15
+327,Mount Vernon Ave & Kennedy St,15
+328,Court House Metro / 15th St & N Uhle St,21
+329,WAU / Flower Ave & Division St,15
+330,Long Bridge Park / Long Bridge Dr & 6th St S,15
+331,Connecticut Ave & McKinley St NW,19
+332,15th & L St NW,23
+333,17th & G St NW,31
+334,Spring St & 2nd Ave,15
+335,18th & R St NW,19
+336,Joyce St & 16th St S,15
+337,Union Market,23
+338,Langston Blvd & N Monroe St,15
+339,21st St & N Pierce St,15
+340,Langston Blvd & N Kirkwood St,15
+341,19th & G St NW,23
+342,2nd St & Seaton Pl NE,19
+343,Wilson Blvd & N Illinois St ,15
+344,Army Navy Dr & S Nash St,11
+345,Thomas Jefferson St NW & Water/K St NW,19
+346,11th & S St NW,23
+347,Walter Reed Dr & 8th St S,15
+348,2nd & G St NE,23
+349,8th & O St NW,19
+350,Georgia & Missouri Ave NW,19
+351,Oklahoma Ave & D St NE,19
+352,Maryland Ave & E St NE,19
+353,New York Ave & Hecht Ave NE,23
+354,Yuma St & Tenley Circle NW,19
+355,Connecticut Ave & Chevy Chase Lake Dr,15
+356,Key West Ave & Siesta Key Way,15
+357,Langston Blvd & N Woodstock St,19
+358,Saint Asaph St & Madison St,15
+359,King St Metro North / Cameron St,15
+360,Madison St & N Henry St,15
+361,Medical Center Metro ,19
+362,Washington Blvd & N Frederick St,11
+363,Wisconsin Ave & Ingomar St NW,19
+364,16th & Irving St NW,19
+365,16th & R St NW,19
+366,Lyttonsville Rd & Lyttonsville Pl,15
+367,Woodmont Ave & Strathmore St,11
+368,14th & L St NW,19
+369,1st & O St NW,15
+370,South Capitol & Atlantic St SW,19
+371,18th & C St NW,19
+372,22nd & P ST NW,19
+373,East West Hwy & 16th St,19
+374,Royal St & Wilkes St,15
+375,14th & Girard St NW,23
+376,Potomac Ave & Main Line Blvd,19
+377,11th & O St NW,19
+378,10th St & L'Enfant Plaza SW,23
+379,Connecticut Ave & Yuma St NW,19
+380,2nd St & Massachusetts Ave NE,23
+381,Radford St & Osage St,23
+382,East Falls Church Metro / Sycamore St & 19th St N,19
+383,Kennebec St & 11th St N,15
+384,Commonwealth Ave & E Monroe Ave,15
+385,4th St & Madison Dr NW,31
+386,Henry Bacon Dr & Lincoln Memorial Circle NW,19
+387,17th St & Independence Ave SW,19
+388,Franklin St & S Washington St,19
+389,Mount Vernon Ave & Four Mile Run Park,15
+390,4th St & K St NW,23
+391,Mount Vernon Ave & Bruce St,15
+392,Lee Center,15
+393,Powhatan St & Bashford Ln,15
+394,Potomac Ave & Swann Ave,19
+395,14th & Irving St NW,31
+396,Vermont Ave & I St NW,25
+397,Wisconsin Ave & Brandywine St NW,25
+398,24th & R St NE / National Arboretum,19
+399,Division Ave & Foote St NE,15
+400,16th & Q St SE / Anacostia HS,23
+401,Spring Hill Metro,15
+402,Westpark Dr & Leesburg Pike,11
+403,Tysons One Pl & Chain Bridge Rd,11
+404,Tysons Corner Station,11
+405,Westpark & Jones Branch Dr,11
+406,Jones Branch & Westbranch Dr,13
+407,Westpark & Park Run Dr,11
+408,Tysons West Transit Center,11
+409,North Shore & Cameron Crescent Dr/Crescent Apartments,11
+410,Town Center Pkwy & Bowman Towne Dr,15
+411,Reston Regional Library,15
+412,New Dominion Pkwy & Fountain Dr,15
+413,Sunset Hills & Old Reston Ave,15
+414,Reston Town Center Transit Station,17
+415,1st & D St SE,19
+416,Wiehle Ave & Reston Station Blvd,19
+417,Library St & Freedom Dr,19
+418,Sunset Hills Rd & Discovery Square,15
+419,22nd St & Constitution Ave NW,23
+420,61st St & Banks Pl NE,19
+421,Temporary Rd & Old Reston Ave,15
+422,Reston YMCA,15
+423,Sunset Hills Rd & Isaac Newton Square,11
+424,N Lynn St & Fairfax Dr,15
+425,Georgia Ave & Piney Branch Rd NW,15
+426,Greensboro & International Dr,11
+427,Madison St & Fairfax St,15
+428,Sligo Ave & Carroll Ln,15
+429,15th & W St NW,19
+430,12th St & Pennsylvania Ave SE,19
+431,3rd St & Riggs Rd NE,15
+432,Carlin Springs Rd & N Thomas St,15
+433,Towers Crescent Dr & Tysons One Pl,11
+434,6th & K St NE,19
+435,Pooks Hill Rd & Linden Ave,15
+436,Takoma Park Rec Center,15
+437,New Hampshire & Kirklynn Ave,15
+438,Wheaton Metro / Georgia Ave & Reedie Dr,19
+439,Amherst Ave & Elkins St,15
+440,Amherst Ave & Prichard Rd,15
+441,Grandview & Blueridge Ave,15
+442,Windham Ln & Amherst Ave,15
+443,North Shore Dr & Village Rd,11
+444,Town Center Pkwy & Sunset Hills Rd,11
+445,3rd & Underwood St NW,19
+446,18th & Monroe St NE,19
+447,7th & E St SW,19
+448,Shady Grove Metro East,19
+449,Potomac & M St NW,19
+450,Columbia & Ontario Rd NW,23
+451,Washington-Liberty High School / N Stafford St & Generals Way,15
+452,Westover Library / Washington Blvd & N McKinley Rd,15
+453,Columbia Pike & S Taylor St,15
+454,Columbus Ave & Tribeca St,11
+455,Columbus Ave & Gramercy Blvd,11
+456,Reston Pkwy & Spectrum Dr,15
+457,Key West Ave & Great Seneca Hwy,11
+458,Virginia Ave & 25th St NW,19
+459,15th & M St NW,19
+460,11th & Girard St NW,19
+461,Connecticut Ave & R St NW,19
+462,Wilson Blvd & N Troy St,15
+463,American University East Campus,19
+464,15th St & Constitution Ave NW,19
+465,23rd & M St NW,19
+466,Corporate Blvd & Omega Dr,15
+467,Key West Ave & Diamondback Dr,11
+468,Alabama Ave & Stanton Rd SE / Shops at Park Village,19
+469,Mississippi Ave & 19th St SE / THEARC,19
+470,19th & Savannah St SE,11
+471,4th St & Mississippi Ave SE,19
+472,1st & S Capitol St SE / Oxon Run Trail,19
+473,Livingston Rd & 3rd St SE,15
+474,Joliet St & MLK Ave SW/Bald Eagle Rec Ctr,19
+475,37th & Ely Pl SE,15
+476,15th St & Pennsylvania Ave NW,19
+477,Maine Ave & 9th St SW,15
+478,Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center,19
+479,Blueridge Ave & Elkin St,15
+480,Georgia Ave & Kennedy St NW,19
+481,7th St & Massachusetts Ave NE,19
+482,Anacostia Park,19
+483,Twinbrook Metro,14
+484,White Flint Metro,25
+485,Citadel Ave & McGrath Blvd,15
+486,Rockville Pike & Old Georgetown Rd,15
+487,Woodglen Dr & Executive Blvd,16
+488,Executive Blvd & E Jefferson St,15
+489,Fishers Ln & Rock Creek Mill Rd,15
+490,Congressional Ln & E Jefferson St,15
+491,Garland Ave & Walden Rd,15
+492,Greensboro & Pinnacle Dr,13
+493,1301 McCormick Dr / Wayne K. Curry Admin Bldg,15
+494,Largo Town Center Metro,17
+495,Baltimore Ave & Van Buren St / Riverdale Park Station,17
+496,Baltimore Ave & Jefferson St,15
+497,Perry & 35th St,15
+498,Rockville Pike & Meeting St,15
+499,Potomac Ave & Half St SW,23
+500,Largo Rd & Campus Way / Prince Georges's Comm Col,15
+501,Stanton Square SE,19
+502,14th & Newton St NW,19
+503,48th Pl & MacArthur Blvd NW,19
+504,14th & Luzon St NW,19
+505,1st & M St SE,19
+506,Fleet St & Waterfront St,15
+507,Oxon Hill Park & Ride,15
+508,11th & Park Rd NW,19
+509,4th & M St SE,19
+510,Kansas Ave & Sherman Cr NW,19
+511,Campus Commons,11
+512,Park Run & Onyx Dr,11
+513,7th & K St NW,19
+514,King Greenleaf Rec Center,19
+515,Montello Ave & Holbrook Terr NE,19
+516,New Jersey Ave & F St NW,33
+517,Maryland Ave & 17th St NE,19
+518,Massachusetts Ave & 6th St NE,19
+519,Woodley Park Metro / Calvert St & Connecticut Ave NW,23
+520,McLean Metro,19
+521,Trinidad Rec Center,19
+522,Rosedale Rec Center,19
+523,11th & C St SE,19
+524,New Hampshire & Gallatin St NW,19
+525,United Medical Center,19
+526,18th & New Hampshire Ave NW,19
+527,Dunn Loring Metro,19
+528,Oglethorpe St & 42nd Ave,15
+529,Southern Ave Metro,15
+530,Queens Chapel & Hamilton St,15
+531,Northwestern High School,15
+532,New Hampshire Ave & East-West Hwy,15
+533,Rhode Island Ave & 39th St / Brentwood Arts Exchange,15
+534,Riggs Rd & East West Hwy,17
+535,Tanger Outlets,15
+536,Chillum Rd & Riggs Rd / Riggs Plaza,15
+537,Hyattsville Library / Adelphi Rd & Toledo Rd,15
+538,Meridian High School / Haycock Rd & Leesburg Pike,12
+539,State Theatre / Park Pl & N Washington St,12
+540,N Oak St & W Broad St,12
+541,Pennsylvania Ave & Park Ave,12
+542,E Fairfax St & S Washington St,12
+543,N Roosevelt St & Roosevelt Blvd,12
+544,W Broad St & Little Falls St,12
+545,S Maple Ave & S Washington St,12
+546,Falls Church City Hall / Park Ave & Little Falls St,12
+547,W Columbia St & N Washington St,12
+548,West Falls Church Metro,19
+549,Jones Branch Drive & Scotts Crossing Rd,11
+550,Georgia Ave & Morton St NW,19
+551,Merrilee Dr & Lauren Elizabeth Lane,11
+552,Merrifield Cinema & Merrifield Town Center,11
+553,Rhode Island & Montana Ave NE,19
+554,7th & S St NW,19
+555,North Capitol & R St NE,15
+556,17th & Upshur St NW,19
+557,Grant Circle,19
+558,14th & Otis Pl NW,19
+559,John McCormack Rd NE,19
+560,West Hyattsville Metro,17
+561,Capitol Heights Metro,19
+562,Prince George's Plaza Metro,17
+563,Riverdale Park Town Center,17
+564,The Mall at Prince Georges,17
+565,Wheaton Library & Community Rec Center,11
+566,Edgewood Rec Center,15
+567,8th & K St NE,15
+568,Kingman Island/The Fields at RFK,19
+569,Kenilworth Terrace & Hayes St. NE,19
+570,National Harbor Carousel,15
+571,Valley Ave & Wheeler Rd SE,19
+572,Ridge Rd Community Center,19
+573,Fort Stanton Rec Center,19
+574,Reservoir Rd & 38th St NW,19
+575,22nd & H St NW,17
+576,8th & H St NE,19
+577,Hardy Rec Center,8
+578,The Shoppes @ Burnt Mills,19
+579,Briggs Chaney & Castle Dr,19
+580,White Oak Rec Center,15
+581,Briggs Chaney Park & Ride,23
+582,Stewart & April,19
+583,Stewart Ln & Old Columbia Pike,19
+584,New Hampshire & Lockwood,19
+585,Castle Blvd & Castle Ln,19
+586,Oak Leaf & Lockwood,19
+587,White Oak Transit Center,19
+588,Wilson Blvd. & N. Vermont St.,12
+589,Oklahoma Ave & Benning Rd NE,19
+590,Minnesota Ave & R St SE,19
+591,Vy Reston Heights,11
+592,1st & K St NE,17
+593,Wheeler Ave & S. Floyd St.,12
+594,N. Beauregard St. & Berkley St.,19
+595,Mt Vernon Trail & S. Washington St.,15
+596,Eisenhower Ave & Ike Dr,15
+597,Capitol Ave & Kendall St NE,19
+598,14th & D St SE,19
+599,Half & Water St SW,15
+600,14th & Q St NW,19
+601,13th & U St NW,19
+602,Stadium Armory Metro,19
+603,Broad Branch Rd & Northampton St NW,19
+604,N Pitt St & Montgomery St,15
+605,Duke St & Strand (Robinson Terminal),11
+606,21st St & G st NW,19
+607,4th St & G St SW,19
+608,Kansas Ave & Longfellow St NW,19
+609,National Airport,19
+610,Fern St & Army Navy Dr,15
+611,Arlington Blvd & Ft Myer Dr,15
+612,23rd St S & Hayes St,15
+613,Wilson Blvd & N Oak St,17
+614,Arlington Blvd & Fairfax Dr,16
+615,2nd & V St SW / James Creek Marina,19
+616,1st St & Potomac Ave SE,19
+617,20th & Columbia Rd NW,19
+618,3rd & M st SE,23
+619,53rd & D St SE/C.W. Harris Elementary,19
+620,N Hampton Dr & Ford Ave,11
+621,Whiting & Lane Dr,15
+622,N Howard St & Taney Ave,15
+623,Anacostia Roller Skating Pavillion,19
+624,S Clark St & 33rd St,11
+625,Columbia Pike & S Greenbrier St,15
+626,Kenmore Ave & Seminary Rd,11
+627,Rosslyn Metro / Wilson Blvd & N Moore St,21
+628,Roosevelt Center & Crescent Rd,15
+629,Crescent Rd & Ridge Rd,15
+630,Greenbelt Station Parkway,11
+631,Baron Cameron Ave & North Hampton Ave,12
+632,Ridge Heights Rd & Seahawks Dr,12
+633,Ring Rd & North Shore Dr,12
+634,Reston Pkwy & Bennington Woods Rd,12
+635,Inlet Ct & Wiehle Dr,12
+636,Fairway Dr & Hook Rd,12
+637,Vantage Hill Rd & Wainwright Dr,12
+638,Links Dr & Wedge Dr,12
+639,Golf Course Sq and Golf Course Dr,12
+640,South Lakes Dr and Reston Pkwy,12
+641,Olde Crafts Dr and Cartwright Pl,12
+642,Green Range Dr and Glade Dr,12
+643,South Gate Community Center,12
+644,Lake Newport Rd and Autumn Ridge Cir,12
+645,Ridge Heights and Owl Cove Ln,12
+646,Soapstone Dr Convenience Center,12

@@ -25,9 +25,9 @@ Input files are
 4. Trip duration,destination and route study (Timeseries_3.ipynb)
 
 5. Key Performance Index (KPI) (Timeseries_3.ipynb)
-- Start station, End station, no. of rides and member/casual
-- Start station, End station, no. of rides, time of the day and member/casual
-- Start station, End station, no. of rides, day of the week and member/casual
+    - Start station, End station, no. of rides and member/casual
+    - Start station, End station, no. of rides, time of the day and member/casual
+    - Start station, End station, no. of rides, day of the week and member/casual
 - Start station, End station, no. of rides, trip duration and member/casual
 - Start station, End station, no. of rides, time of the day, trip duration and member/casual
 - Start station, End station, no. of rides, capacity and member/casual

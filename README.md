@@ -28,9 +28,9 @@ Input files are
     - Start station, End station, no. of rides and member/casual
     - Start station, End station, no. of rides, time of the day and member/casual
     - Start station, End station, no. of rides, day of the week and member/casual
-- Start station, End station, no. of rides, trip duration and member/casual
-- Start station, End station, no. of rides, time of the day, trip duration and member/casual
-- Start station, End station, no. of rides, capacity and member/casual
-- Start station, End station, no. of rides, capacity/station distribution and member/casual
-- Start station, End station, no. of rides, weather and time of the day
-- Start station, End station, no. of rides, weather, time of the day and weekday
+    - Start station, End station, no. of rides, trip duration and member/casual
+    - Start station, End station, no. of rides, time of the day, trip duration and member/casual
+    - Start station, End station, no. of rides, capacity and member/casual
+    - Start station, End station, no. of rides, capacity/station distribution and member/casual
+    - Start station, End station, no. of rides, weather and time of the day
+    - Start station, End station, no. of rides, weather, time of the day and weekday
